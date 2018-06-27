@@ -5,6 +5,7 @@
   "homepage": "https://julesdowork.github.io/Robofriends-Redux",
   "dependencies": {
     "gh-pages": "1.2.0",
+    "hoek": "5.0.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "5.0.7",
